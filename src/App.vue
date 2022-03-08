@@ -65,7 +65,12 @@
           <Pupils
             :pupils="[
               { name: 'Ostermann Malte', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
-              { name: 'Satzinger Niklas', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'}
+              { name: 'Satzinger Niklas', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
+              { name: 'Jonas Fröller', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
+              { name: 'Patrick Eder', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
+              { name: 'Marvin Anderson', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
+              { name: 'Tobias Feichtmeir', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
+              { name: 'Mathias Aman', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'}
             ]"
           />
         </v-tab-item>

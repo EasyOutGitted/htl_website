@@ -10,7 +10,8 @@
   "dependencies": {
     "@vue/cli": "^4.5.15",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11",
+    "serve": "^13.0.2",
+    "vue": "^2.6.14",
     "vuetify": "^2.4.0"
   },
   "devDependencies": {
@@ -44,5 +45,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "Dies ist eine fast leere Installation von Vue2 mit Vuetify2. <br>",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patare1337/htl_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patare1337/htl_website/issues"
+  },
+  "homepage": "https://github.com/patare1337/htl_website#readme"
 }

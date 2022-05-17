@@ -23,6 +23,9 @@
             target="_blank"
           >Discord Community</a>
         </p>
+        <p class="color-white">
+            das ist unsichtbaar
+          </p>
       </v-col>
 
       <v-col
@@ -150,6 +153,9 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="css">
+   .color-white{
+      color: white;
+   }
 
 </style>
